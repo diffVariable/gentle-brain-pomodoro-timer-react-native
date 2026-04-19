@@ -2,6 +2,10 @@
 
 A cute Pomodoro timer app built with React Native + Expo — created for tutorial purposes as a learning exercise for myself, personally, transitioning into mobile development with React Native and Expo.
 
+## Preview
+
+![Timer screenshot at S22 Ultra Phone](./assets/timer-screenshot.png)
+
 ## Tech Stack
 
 - [React Native](https://reactnative.dev/)
